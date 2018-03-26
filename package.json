@@ -1,0 +1,24 @@
+{
+  "name": "envvar-loader",
+  "version": "1.0.1",
+  "description": "Webpack loader for environment variables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test/*.test.js"
+  },
+  "author": "mtso <~@mtso.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtso/envvar-loader"
+  },
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "dotenv": "^5.0.1",
+    "raw-loader": "^0.5.1",
+    "webpack": "^4.2.0"
+  }
+}

@@ -1,0 +1,2 @@
+<sometag>${VAR1}</sometag>
+<anothertag>${VAR2}</anothertag>
